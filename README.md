@@ -1,5 +1,8 @@
 # Slack_Create_Bot
 
+## 仕様
+HackMDを自動で作ってSlackのチャンネルに投げてくれるSlack BOTです。
+
 ## 環境変数
 
 ### mariadb関連
